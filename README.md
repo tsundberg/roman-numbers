@@ -48,6 +48,10 @@ Examples:
 "XLVII" -> 47 ("XL" -> 40 + "VII" -> 7)
 ```
 
-     
+## Building
 
+Running the tests can be done using gradle like this:
 
+```
+./gradlew clean test
+```
